@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nestor from Chubut - Argentina
-- 👀 I’m interested in Front-End development using HTML + CSS (Tailwind or Sass) + JavaScript (With React) and some of smart contracts
-- 🌱 I’m currently learning Web 3.0
-- 💞️ I’m looking to collaborate on everything about Front-End web 3.0
+- 👀 I’m interested in Front-End development using HTML + CSS (Tailwind or Sass) + JavaScript with React framework and smart contracts 
+- 🌱 Decided to learn Web 3.0 to be part of the future 
+- 💞️ Want to collaborate on everything about Front-End web 3.0
 - 📫 Do you wanna reach me? fell free to contact me https://linktr.ee/nextdoor95
 
 <!---
