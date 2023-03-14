@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Nestor from Chubut - Argentina
-- 👀 I’m interested in Front-End development using HTML + CSS (Tailwind or Sass) + JavaScript with React framework and smart contracts 
-- 🌱 Decided to learn Web 3.0 to be part of the future 
-- 💞️ Want to collaborate on everything about Front-End web 3.0
-- 📫 Do you wanna reach me? fell free to contact me https://linktr.ee/nextdoor95
+- 👋 Hi, I'm Nestor from Puerto Madryn, Chubut.
+- 👀 I'm a frontend developer with focus on UX/UI design and web3 enthusiast which led me to study backend in Solidity and JS to complete my tech stack.
+- 🌱 Decided to learn Web 3 to make a better future.
+- 📫 social networks: https://linktr.ee/nextdoor95
 
 <!---
 NextDoor95/NextDoor95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
